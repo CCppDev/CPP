@@ -1,0 +1,8 @@
+add_executable(OverLoad_1_Operators OverLoad_1_Operators.cpp MyComplex.cpp)
+add_executable(OverLoad_2_Operators OverLoad_2_Operators.cpp MyString.cpp)
+add_executable(OverLoad_3_Functor OverLoad_3_Functor.cpp)
+add_executable(OverLoad_4_SmartPointer OverLoad_4_SmartPointer.cpp)
+add_executable(Overload_5_new_delete Overload_5_new_delete.cpp)
+
+add_executable(TypeCast_1_ConvertConstructor TypeCast_1_ConvertConstructor.cpp)
+add_executable(TypeCast_2_ConvertOperator TypeCast_2_ConvertOperator.cpp)
